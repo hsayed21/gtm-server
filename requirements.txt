@@ -1,0 +1,9 @@
+Flask
+Flask-RESTful
+uwsgi
+requests
+sendgrid
+PyGithub
+datetime
+pytz
+beautifulsoup4
